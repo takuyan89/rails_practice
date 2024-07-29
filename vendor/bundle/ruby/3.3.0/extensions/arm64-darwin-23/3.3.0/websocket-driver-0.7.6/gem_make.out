@@ -1,0 +1,18 @@
+current directory: /Users/takuya/Desktop/dev/rails_practice/rails_practice/helloworld/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/Users/takuya/.rbenv/versions/3.3.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/takuya/Desktop/dev/rails_practice/rails_practice/helloworld/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240729-3205-37i5ie sitelibdir\=./.gem.20240729-3205-37i5ie clean
+
+current directory: /Users/takuya/Desktop/dev/rails_practice/rails_practice/helloworld/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240729-3205-37i5ie sitelibdir\=./.gem.20240729-3205-37i5ie
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/takuya/Desktop/dev/rails_practice/rails_practice/helloworld/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240729-3205-37i5ie sitelibdir\=./.gem.20240729-3205-37i5ie install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20240729-3205-37i5ie
+
+current directory: /Users/takuya/Desktop/dev/rails_practice/rails_practice/helloworld/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240729-3205-37i5ie sitelibdir\=./.gem.20240729-3205-37i5ie clean
